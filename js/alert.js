@@ -10,13 +10,13 @@ let suma = num1 + num2
 
 // console.log("La suma es", suma, nombre)
 
-alert(`La suma es ${num1 + num2}` + " " + nombre)
+alert(`La suma es ${num1 + num2}` + " " + nombre + " Suuu")
 // confirm("¿Está lloviendo?")
 
 
 var resultado = window.confirm('¿Está lloviendo?');
 if (resultado === true) {
-  window.alert("Pues coje el paraguas, no te mojes " + nombre);
+  window.alert("Pues coje el paraguas, no te mojes " + nombre + " pringao");
 } else {
-  window.alert("pues no cojas el paraguas " + nombre);
+  window.alert("pues no cojas el paraguas " + nombre + " pringao");
 }
